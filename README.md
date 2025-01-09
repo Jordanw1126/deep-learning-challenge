@@ -44,7 +44,7 @@ Explored replacing low-frequency categories with "Other."
 
 Summary
 The model did not achieved moderate success in predicting charitable application outcomes, with an accuracy of 75%.
-Preprocessing and feature engineering were crucial for achieving this performance.
+Preprocessing and feature engineering were crucial for achieving this performance but ultimately the model was not successful.
 
 Recommendation for Alternative Models
 Consider using a Gradient Boosting Model:
